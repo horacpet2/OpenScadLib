@@ -12,7 +12,6 @@ module cooler_40x40()
     {
         difference()
         {
-            //cube([cooler_width, cooler_length, cooler_height], center=true);
             hull()
             {
                 for(i=[0:90:270])
@@ -34,4 +33,4 @@ module cooler_40x40()
     
 }
 
-//cooler();
+cooler_40x40();

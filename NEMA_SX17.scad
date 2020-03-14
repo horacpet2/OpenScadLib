@@ -226,6 +226,6 @@ module SX17_mount()
 //SX17_mount();
 
 //*
-SX17(nema17_1003Params);
+//SX17(nema17_1003Params);
 //SX17_body(nema17_1003Params);
 //*/
